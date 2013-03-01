@@ -1,0 +1,31 @@
+#body {
+	margin-top: 60px;
+}
+
+.header{
+	width:300px;
+	text-align:left;
+	font-size:22px;
+}
+
+.header p {
+	margin-left:27px;
+}
+
+td {
+	width: 400px;
+}
+
+img {
+	margin-left:27px;
+}
+
+.table .list{
+	vertical-align: middle;
+	font-size: 22px;
+}
+
+li {
+	line-height: 25px;
+}
+
